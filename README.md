@@ -102,3 +102,4 @@ Which model had the best geometric mean score?
 
 What are the top three features?
 
+![](Resources/Data Science Courses.jpg)
