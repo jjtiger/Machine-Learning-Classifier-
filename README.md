@@ -1,5 +1,5 @@
 Machine-Learning-Classifier
-![](Resources/MachineLearning-Banner.jpeg)
+![](Resources/MachineLearning-Banner.jpg)
 
 
 
